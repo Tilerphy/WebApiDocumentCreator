@@ -6,6 +6,8 @@ A Fiddler 4 extension， use to create a file with format lines from the request
 <h3>Usage</h3>
 
 1. Download the codes, and compile it directly.
+(Please goto http://www.telerik.com/fiddler to download the Fiddler4 first.
+The reference file is the main entry of Fiddler4, named as Fiddler.exe.)
 
 2. Copy the Compiled result: WebApiDocumentCreator.dll and Newtonsoft.Json.dll into folder %Fiddler install path%/Scripts/.
 My Fiddler 4 is installed into C:/Program Files (x86)/Fiddler/, then I need to copy these two dlls into 
