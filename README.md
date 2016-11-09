@@ -58,5 +58,5 @@ template: {url:(Url), setcookie:(ResponseHeaders:Set-Cookie)}
 
 exported line: {url:"http://www.goolge.com", setcookie:["cookie1", "cookie2"]}
 
-<b>Json format template is recommanded, because of the Array value is serialized into Json Array.</b>
+<b>Json format template is recommanded, because the Array value is serialized into Json Array.</b>
 
