@@ -46,9 +46,9 @@ ResponseHeader
 
 StatusCode
 
-RequestHeader:<headerName> 
+RequestHeader:[headerName]
 
-ResponseHeaders:<headerName>
+ResponseHeaders:[headerName]
 
 <b>For example:</b>
 
