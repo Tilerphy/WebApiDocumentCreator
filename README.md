@@ -30,7 +30,7 @@ C:/Program Files (x86)/Fiddler/Scripts
 
 <h3>Templated Exportor</h3>
 
-These placeholders can be used:
+These placeholders can be used (<b>Case sensitive</b>):
 
 Url 
 
